@@ -1,5 +1,6 @@
 class Hero {
     public:
-    int health;
-    char level;
+    int weight;
+    int height;
+    char name;
 };
